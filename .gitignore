@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Ignored Folders
+Debug/
+*.opensdf
+*.sdf
+*.sln
+*.vcxproj
+*.filters
